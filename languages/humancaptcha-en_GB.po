@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HumanCaptcha\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-16 14:33+0100\n"
+"PO-Revision-Date: 2013-08-16 14:33+0100\n"
+"Last-Translator: Outerbridge <contact@outerbridge.co.uk>\n"
+"Language-Team: Outerbridge <contact@outerbridge.co.uk>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: /home/mike/OuterShare/EWYS/Plugins/HumanCaptcha/working/languages/\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../outerbridge-humancaptcha.php:135
+#, php-format
+msgid "Outerbridge HumanCaptcha updated to version %s"
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:279
+msgid "Error: please fill the required field (humancaptcha)."
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:284
+msgid "Error: your answer to the humancaptcha question is incorrect.  Use your browser's back button to try again."
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:291
+msgid "HumanCaptcha"
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:305
+msgid "Number"
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:305
+msgid "Question"
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:305
+msgid "Answer"
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:311
+msgid "Update Q & A"
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:314
+msgid "Are you sure you want to delete this? Press OK to confirm"
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:314
+msgid "Delete Q & A"
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:320
+msgid "Add New"
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:329
+msgid "Add New Q & A"
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:362
+msgid "Setting"
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:362
+msgid "Status"
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:368
+msgid "Use on comments form? <em>Default: On</em>"
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:370
+msgid "Use on registration form? <em>Default: Off</em>"
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:372
+msgid "Use on login form? <em>Default: Off</em>"
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:378
+msgid "On"
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:380
+msgid "Off"
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:383
+msgid "Toggle Setting"
+msgstr ""
+
+#: ../outerbridge-humancaptcha.php:392
+msgid "Nothing to display."
+msgstr ""
+
+#: ../outerbridge-humancaptcha-admin.php:9
+msgid "Question and/or answer updated."
+msgstr ""
+
+#: ../outerbridge-humancaptcha-admin.php:12
+msgid "Cannot update the question and/or answer."
+msgstr ""
+
+#: ../outerbridge-humancaptcha-admin.php:18
+msgid "Selected question and answer deleted."
+msgstr ""
+
+#: ../outerbridge-humancaptcha-admin.php:21
+msgid "Cannot delete the selected question and answer."
+msgstr ""
+
+#: ../outerbridge-humancaptcha-admin.php:28
+msgid "New question and answer added."
+msgstr ""
+
+#: ../outerbridge-humancaptcha-admin.php:31
+msgid "Cannot add the new question and answer."
+msgstr ""
+
+#: ../outerbridge-humancaptcha-admin.php:38
+msgid "Setting updated."
+msgstr ""
+
+#: ../outerbridge-humancaptcha-admin.php:43
+msgid "Setting could not be updated."
+msgstr ""
+
+#: ../outerbridge-humancaptcha-admin.php:47
+msgid "HumanCaptcha - Settings"
+msgstr ""
+
+#: ../outerbridge-humancaptcha-admin.php:49
+msgid "HumanCaptcha Usage"
+msgstr ""
+
+#: ../outerbridge-humancaptcha-admin.php:50
+msgid "You can decide whether or not HumanCaptcha is applied to comment, registration and/or login forms.  Just toggle the settings below."
+msgstr ""
+
+#: ../outerbridge-humancaptcha-admin.php:55
+msgid "HumanCaptcha Questions and Answers"
+msgstr ""
+
+#: ../outerbridge-humancaptcha-admin.php:56
+msgid "You can update your questions and answers here."
+msgstr ""
+
